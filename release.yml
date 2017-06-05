@@ -1,0 +1,4 @@
+---
+- name: return uname -r and redhat-release
+  command: cat /etcredhat-release
+  command: uname -r
